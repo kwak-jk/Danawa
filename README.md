@@ -17,5 +17,6 @@
 ### 네이버쇼핑_airpurifier_2408.ipynb
 
 ## **(5) *10월 업데이트* **
+### 실제 리뷰 특성 파악 후 가짜리뷰 생성 : ChatGPT_API_리뷰 생성 test_2409.ipynb
 ### 5-1. 비지도학습 가짜리뷰 분류 : 가짜진짜지도학습_2410.ipynb
 ### 5-2. mecab 패키지, sentiment 등 : Sentiment_2410.ipynb
